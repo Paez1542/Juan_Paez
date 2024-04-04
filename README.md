@@ -1,2 +1,7 @@
-# Juan_Paez
-¡Bienvenido a mi repositorio personal! Aquí encontrarás una variedad de proyectos que reflejan mi pasión por la ingeniería de sistemas y la programación. Desde pequeñas herramientas hasta proyectos más complejos, este repositorio es un reflejo de mi dedicación para aprender y mejorar constantemente mis habilidades.
+# ¡Bienvenido a mi repositorio personal!
+
+Soy estudiante de Ingeniería de Sistemas en la Pontificia Universidad Javeriana, ubicada en Bogotá, Colombia. Actualmente, estoy inmerso en mi formación académica y mi pasión por la tecnología me ha llevado a explorar diversos campos dentro de la informática
+
+Durante mi carrera universitaria, he participado en proyectos y cursos que abarcan una amplia gama de temas, desde la ciberseguridad hasta la auditoría de sistemas y la protección de datos. Estoy especialmente interesado en aplicar mis conocimientos en la construcción de sistemas seguros y resilientes frente a amenazas cibernéticas emergentes. Mi enfoque se centra en el diseño de arquitecturas de seguridad robustas, la detección de vulnerabilidades y la respuesta a incidentes, con el objetivo de garantizar la integridad y confidencialidad de la información en entornos digitales cada vez más complejos y interconectados.
+
+Me especializo en el desarrollo de software y en el análisis de datos, con un enfoque particular en la ciberseguridad. Mi formación incluye un currículum sólido en programación avanzada, utilizando lenguajes como C++ y Java, así como experiencia en análisis de datos utilizando herramientas como Pandas y Python. Estoy especialmente interesado en aplicar mis habilidades en la creación de soluciones innovadoras para proteger sistemas informáticos y datos sensibles contra amenazas cibernéticas. Mi objetivo es contribuir al fortalecimiento de la seguridad en línea y a la protección de la privacidad de los usuarios en el mundo digital.
